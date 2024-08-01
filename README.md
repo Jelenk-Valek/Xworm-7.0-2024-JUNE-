@@ -6,12 +6,15 @@ This latest RAT, created on June 5, 2024, has been cracked by **UnknownHat127001
 
 **New added features**
 ----
-This version has 5 new added features
+This version has 5 new added features that you can find in **extra 3**
 1) **Executable Injection**: Injects itself into other executable files, enabling the RAT to spread and operate under the guise of legitimate applications.
 2) **Network Traffic Interception**: Intercepts and analyzes network traffic to monitor communications or redirect connections, useful for man-in-the-middle attacks.
 3) **Network Scanning**: Scans local and remote networks to identify other vulnerable devices, which can then be targeted for further compromise.
 4) **Rootkit Capabilities**: Can hide its own processes, files, and network connections from the operating system and security software, making detection and removal much more difficult.
 5) **Image Injection**: Embeds malicious code within image files, exploiting vulnerabilities in image processing software to execute the code when the image is opened.
+
+<div class="center" align="center"><center><img src="https://github.com/Jelenk-Valek/Xworm-V7.0-JUNE-Latest/blob/main/images/Xworm%20V7.0.jpg" width="3200" alt=""/></center></div>
+
 ----
 **Disclaimer**
 ----

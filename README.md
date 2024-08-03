@@ -1,4 +1,4 @@
-**Xworm 7.0 Cracked 🔥**
+**Xworm 7.0 Rat Cracked 🔥**
 ----
 This latest RAT, created on June 5, 2024, has been cracked by **UnknownHat127001**.
 
